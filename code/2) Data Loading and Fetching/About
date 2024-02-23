@@ -1,0 +1,1 @@
+In this commit, the focus is on implementing the functionality to load and fetch stock data from the database. `The load_stock_data()` function inserts stock data into the database, while the fetch_stock_data() function retrieves data for a specific stock symbol.
