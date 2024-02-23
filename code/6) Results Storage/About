@@ -1,0 +1,2 @@
+In this commit, the focus is on storing the generated buy/sell signals and profit/loss data in the database. 
+The `store_results()` function inserts this information into the appropriate tables in the database for future reference and analysis.
