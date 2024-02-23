@@ -1,0 +1,2 @@
+This commit brings together all the previously implemented functionalities and orchestrates the entire process in the `main()` function. 
+It coordinates the fetching of data, signal generation, profit/loss calculation, results storage, and visualization of trading data.
