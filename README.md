@@ -19,3 +19,11 @@ Users will run the main Python script output to signaling generation from beginn
 4. **Visualize Trading Data:**
    - Use the provided Python scripts in the `visualization` directory to visualize trading data.
    - Execute the scripts and view the generated plots to analyze stock performance and trading signals.
+
+## Examples
+
+1. **Candlestick Plot:**
+   - ![Candlestick Plot](candlestick_plot.png)
+
+2. **Buy/Sell Signals:**
+   - ![Buy/Sell Signals](buy_sell_signal.png)
