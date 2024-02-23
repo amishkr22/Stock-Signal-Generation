@@ -10,6 +10,7 @@ This project generates buy and sell signals for stocks based on moving average c
    CREATE DATABASE stock_data;
 
 ## Table Setup
+```sql
 CREATE TABLE stock_data (
     id SERIAL PRIMARY KEY,
     date DATE NOT NULL,
@@ -39,4 +40,4 @@ CREATE TABLE profit_loss (
     profit_loss NUMERIC NOT NULL
 );
 
-** Make Sure to replace stock_data with your desired table name 
+** Make Sure to replace stock_data with your desired table name **
