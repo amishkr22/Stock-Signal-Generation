@@ -1,0 +1,2 @@
+This commit introduces the functionality to calculate the overall profit and loss based on the generated signals.
+The `calculate_profit_loss()` function determines the profit or loss associated with each trade based on the buy and sell signals.
