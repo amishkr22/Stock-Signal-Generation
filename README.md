@@ -12,7 +12,7 @@ Users will run the main Python script output to signaling generation from beginn
    - If required, clean the data to ensure consistency and accuracy using Python scripts in the `data_cleaning` directory.
 
 3. **Python Program Development:**
-   - Navigate to the `main.py'.
+   - Navigate to the `main.py`.
    - Install the required Python packages using `pip install -r Dependencies.txt`.
    - Run the Python scripts to interact with the PostgreSQL database, generate trading signals, calculate profit/loss, and store results(Make sure to replace Databasename,Username,Host,Password and Port).
 
