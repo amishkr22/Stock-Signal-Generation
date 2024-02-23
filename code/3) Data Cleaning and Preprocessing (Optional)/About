@@ -1,0 +1,2 @@
+This commit involves cleaning and preprocessing the fetched stock data to ensure consistency and accuracy. 
+The `clean_stock_data()` function converts certain columns to numeric data types, handles missing values, and interpolates any gaps in the data using linear interpolation.
