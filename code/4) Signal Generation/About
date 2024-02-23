@@ -1,0 +1,2 @@
+Here, the logic for generating buy and sell signals based on moving average crossovers is implemented. 
+The `generate_signals()` function calculates moving averages for different time periods and identifies points where these averages intersect, indicating potential buy or sell signals.
