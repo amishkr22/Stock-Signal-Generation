@@ -23,7 +23,7 @@ Users will run the main Python script output to signaling generation from beginn
 ## Examples
 
 1. **Candlestick Plot:**
-   - ![Candlestick Plot](candlestick_plot.png)
+   - ![Candlestick Plot](images/candlestick_plot.png)
 
 2. **Buy/Sell Signals:**
-   - ![Buy/Sell Signals](buy_sell_signal.png)
+   - ![Buy/Sell Signals](images/buy_sell_signal.png)
