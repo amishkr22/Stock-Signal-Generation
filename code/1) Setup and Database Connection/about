@@ -1,0 +1,1 @@
+This commit establishes the initial setup for the project and includes the necessary code to connect to the PostgreSQL database. It typically involves importing the required libraries, defining the database connection parameters, and writing the function to establish the connection (connect_to_database()).
