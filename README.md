@@ -5,7 +5,7 @@ Users will run the main Python script output to signaling generation from beginn
 
 1. **Set up PostgreSQL Database:**
    - Install PostgreSQL on your machine if you haven't already.
-   - Create a new database named "Stock" using PostgreSQL command line or pgAdmin.
+   - Create a new database using PostgreSQL command line or pgAdmin.
    - Run the provided SQL script `create_tables.sql` to create the necessary tables for storing stock equities data.
 
 2. **Data Cleaning (Optional):**
